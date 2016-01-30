@@ -4,3 +4,4 @@
 - [Graphviz简介](./graphviz_intro.md)
 - [IOS 3D UI](./ios_3d_ui/ios_3d_ui.md)
 - [一个C++面试题目](./blogs/cpp_interview.md)
+- [环境光遮蔽效果](./blogs/ao_effect/ao_effect.md)
