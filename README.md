@@ -6,3 +6,4 @@
 - [一个C++面试题目](./blogs/cpp_interview.md)
 - [环境光遮蔽效果](./blogs/ao_effect/ao_effect.md)
 - [Unity中使用NativePlugin](./blogs/xcode_unity_library/xcode_unity_library.md)
+- [JNI On Mac - 从Java程序中调用C函数](./blogs/jni_on_mac/jni_on_mac.md)
