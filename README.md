@@ -5,5 +5,7 @@
 - [IOS 3D UI](./blogs/ios_3d_ui/ios_3d_ui.md)
 - [一个C++面试题目](./blogs/cpp_interview.md)
 - [环境光遮蔽效果](./blogs/ao_effect/ao_effect.md)
-- [Unity中使用NativePlugin](./blogs/xcode_unity_library/xcode_unity_library.md)
+- [Unity NativePlugin实践一: 环境搭建](./blogs/unity_nativeplugin_xcode/unity_nativeplugin_xcode_1.md)
+- [Unity NativePlugin实践二: 参数类型匹配](./blogs/unity_nativeplugin_xcode/unity_nativeplugin_xcode_2.md)
+- [Unity NativePlugin实践三: 回调函数](./blogs/unity_nativeplugin_xcode/unity_nativeplugin_xcode_3.md)
 - [JNI On Mac - 从Java程序中调用C函数](./blogs/jni_on_mac/jni_on_mac.md)

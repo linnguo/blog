@@ -1,4 +1,4 @@
-#在Unity中使用Native Plugin(XCode编译)
+#Unity NativePlugin实践一: 环境搭建
 
 目标: 使用XCode将C源码编译一个动态链接库, 然后在Unity中用C#调用
 
