@@ -9,3 +9,4 @@
 - [Unity NativePlugin实践二: 参数类型匹配](./blogs/unity_nativeplugin_xcode/unity_nativeplugin_xcode_2.md)
 - [Unity NativePlugin实践三: 回调函数](./blogs/unity_nativeplugin_xcode/unity_nativeplugin_xcode_3.md)
 - [JNI On Mac - 从Java程序中调用C函数](./blogs/jni_on_mac/jni_on_mac.md)
+- [使用Blender烘焙法线贴图](./blogs/blender_bake_normal/blender_bake_normal.md)
